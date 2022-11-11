@@ -1,0 +1,15 @@
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\bin\Debug\net6.0\Programmirovanie.exe
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\bin\Debug\net6.0\Programmirovanie.deps.json
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\bin\Debug\net6.0\Programmirovanie.runtimeconfig.json
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\bin\Debug\net6.0\Programmirovanie.dll
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\bin\Debug\net6.0\Programmirovanie.pdb
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\obj\Debug\net6.0\Programmirovanie.csproj.AssemblyReference.cache
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\obj\Debug\net6.0\Programmirovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\obj\Debug\net6.0\Programmirovanie.AssemblyInfoInputs.cache
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\obj\Debug\net6.0\Programmirovanie.AssemblyInfo.cs
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\obj\Debug\net6.0\Programmirovanie.csproj.CoreCompileInputs.cache
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\obj\Debug\net6.0\Programmirovanie.dll
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\obj\Debug\net6.0\refint\Programmirovanie.dll
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\obj\Debug\net6.0\Programmirovanie.pdb
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\obj\Debug\net6.0\Programmirovanie.genruntimeconfig.cache
+C:\Users\Ruru\source\repos\Programmirovanie\Programmirovanie\obj\Debug\net6.0\ref\Programmirovanie.dll

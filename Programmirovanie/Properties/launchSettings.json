@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Programmirovanie": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Program Files\\dotnet\\shared\\Microsoft.NETCore.App\\6.0.8"
+    }
+  }
+}
